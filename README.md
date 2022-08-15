@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Omnia
+- 🌱 I’m currently learning HTML & CSS 
+- 💞️ l would love to know other developers and get to learn more from them
